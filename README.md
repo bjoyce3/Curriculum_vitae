@@ -1,49 +1,45 @@
 
 #Blake Joyce
+   
+`
+BIO5 Institute                                                     bjoyce3@gmail.com  
+School of Plant Sciences                                   bjoyce3@email.arizona.edu  
+University of Arizona                                                  
+1657 E. Helen Street                           
+Tucson, AZ 85721 `
 
- 
-BIO5 Institute
-School of Plant Sciences
-University of Arizona
-1657 E. Helen Street
-Tucson, AZ 85721
-
-
-bjoyce3@gmail.com
-bjoyce3@email.arizona.edu
-Lab Website
-Department
-
-***
+[Lab Website](http://www.lyonslab.net/who-we-are.html#blake)  
+[Departmental Website](https://cals.arizona.edu/spls/content/blake)
+****
 
 
 ##Research Interests
-Functional genomics and comparative bioinformatics
-Plant secondary metabolism
-Engineering crop plant metabolism for specialty products
+Functional genomics and comparative bioinformatics  
+Plant secondary metabolism  
+Engineering crop plant metabolism for specialty products  
 
 ##Education
-Ph.D, Plants, Soils, and Insects	University of Tennessee	2013
-Master’s, Plant Sciences	University of Tennessee	2008
-BS, Ecology		University of Georgia	2006
-BS, Biology		University of Georgia	2006
+`Ph.D, Plants, Soils, and Insects	    University of Tennessee	       2013  
+Master’s, Plant Sciences	            University of Tennessee	       2008  
+BS, Ecology		                     University of Georgia	         2006  
+BS, Biology		                     University of Georgia	         2006  `
 
 ##Current Position
-Postdoctoral Researcher, Eric Lyons Lab, BIO5 Institute, University of Arizona
-Bioinformatics tool development, CoGe Comparative Genomics Platform 
-Research Analyst, Eric Lyons Lab, BIO5 Institute, iAnimal Collaborative
-	Experimental design, data import, bioinformatics analysis 
-	Bioinformatics training for animal science community members
+* Postdoctoral Researcher, Eric Lyons Lab, BIO5 Institute, University of Arizona  
+        Bioinformatics tool development, CoGe Comparative Genomics Platform    
+* Research Analyst, Eric Lyons Lab, BIO5 Institute, iAnimal Collaborative  
+        Experimental design, data import, bioinformatics analysis  
+        Bioinformatics training for animal science community members  
 
 ##Research Experience
-Research Analyst	Agricultural sciences	University of Arizona	2014-present
-Postdoctoral Research	Bioinformatics	University of Arizona	2014-present
-Postdoctoral Research	Plant biotechnology	University of Arizona		2013-14
-Graduate Research	Plant molecular biology	University of Tennessee		2009-13
-Graduate Research	Plant biotechnology	University of Tennessee		2007-08
-Lab Assistant	Plant biotechnology	University of Georgia		2005-07
-Lab Assistant	Plant-insect ecology	University of Georgia			2005
-Lab Assistant	Stream ecology	University of Georgia			2004
+`Research Analyst	      Agricultural sciences	    University of Arizona	     2014-present  
+Postdoctoral Research	 Bioinformatics	           University of Arizona	     2014-present  
+Postdoctoral Research	 Plant biotechnology	      University of Arizona	          2013-14  
+Graduate Research	     Plant molecular biology	  University of Tennessee            2009-13  
+Graduate Research	     Plant biotechnology	      University of Tennessee            2007-08  
+Lab Assistant	         Plant biotechnology	      University of Georgia		      2005-07  
+Lab Assistant	         Plant-insect ecology	     University of Georgia			     2005  
+Lab Assistant	         Stream ecology	           University of Georgia			     2004`
 
 ***
 
@@ -75,11 +71,11 @@ Lab Assistant	Stream ecology	University of Georgia			2004
 
 #Other Publications
 ##Bioinformatics Code Releases
-Fractionation Bias Analysis Tool   
+[Fractionation Bias Analysis Tool](https://github.com/bjoyce3/SynMapFractBiasAnalysis)   
 
 ##Professional Wiki Pages
-https://genomevolution.org/wiki/index.php/Fish_Comparative_Genomics
-https://genomevolution.org/wiki/index.php/Medically_Relevant_Genomes_in_CoGe
+[Fish Comparative Genomics](https://genomevolution.org/wiki/index.php/Fish_Comparative_Genomics)  
+[Medically Relevant Genomes in CoGe](https://genomevolution.org/wiki/index.php/Medically_Relevant_Genomes_in_CoGe)
 
 #Accepted Talks
 1.	Plant and Animal Genome XXIV, San Diego, California. 2016. “FractBias: graphical and integrated tool for assessing fractionation bias after whole genome duplications.”
@@ -155,25 +151,25 @@ ANSC 525 	“Research Ethics for the Life Sciences” 	2010-12
  
 
 ##Course Development
-BIO 100IN “Biology Concepts” 
-Basic principles and concepts of biology. Includes methods of scientific inquiry, cell structure and chemistry, metabolism,reproduction, genetics, molecular biology evolution, and ecology and current issues in biology.
-BIO 156IN “Introductory Biology for Allied Health” 
-Introduction to biology for the health professions. Includes principles of science, scientific measurement and laboratory techniques, chemistry of life, cell anatomy and physiology, cellular reproduction, patterns of inheritances and human tissues. Integrated lecture and lab.
-BIO 182IN “General Biology II: (Majors)” 
-Principles of living things at the levels of organism, population, community, and ecosystem. Includes evolution of life, classification of organisms, survival strategies, interactions between organisms and with their environment, ecosystem structure, and human impacts upon the biosphere.
-AGR 200IN “Introduction to Soil Science” 
-Basic principles of soil as a component of terrestrial ecosystems. Includes the composition of soil and its operation within the overall biosphere. Also includes soil as a medium for plant growth in croplands, rangelands, and forest lands. Also includes the role of soils in environmental quality, health, water resources, erosion, recreation, and wildlife.
+**BIO 100IN “Biology Concepts”**   
+Basic principles and concepts of biology. Includes methods of scientific inquiry, cell structure and chemistry, metabolism,reproduction, genetics, molecular biology evolution, and ecology and current issues in biology.  
+**BIO 156IN “Introductory Biology for Allied Health”**   
+Introduction to biology for the health professions. Includes principles of science, scientific measurement and laboratory techniques, chemistry of life, cell anatomy and physiology, cellular reproduction, patterns of inheritances and human tissues. Integrated lecture and lab.  
+**BIO 182IN “General Biology II: (Majors)”**   
+Principles of living things at the levels of organism, population, community, and ecosystem. Includes evolution of life, classification of organisms, survival strategies, interactions between organisms and with their environment, ecosystem structure, and human impacts upon the biosphere.  
+**AGR 200IN “Introduction to Soil Science”**   
+Basic principles of soil as a component of terrestrial ecosystems. Includes the composition of soil and its operation within the overall biosphere. Also includes soil as a medium for plant growth in croplands, rangelands, and forest lands. Also includes the role of soils in environmental quality, health, water resources, erosion, recreation, and wildlife.  
 
 #Pedagogy and Professional Training
 ##Teaching Certifications
  
-Agriculture 	Pima Community College	2015
-Biology	Pima Community College 	2013
-Desire2Learn Web Courses	Pima Community College	2013
-Pedagogy Training 
-Instructor Training	Software Carpentry	2015
-Think, Pair, Share	University of Arizona	2015
-Facilitating Active Learning	University of Arizona 	2014
+Agriculture 	Pima Community College	2015  
+Biology	Pima Community College 	2013  
+Desire2Learn Web Courses	Pima Community College	2013  
+##Pedagogy Training   
+Instructor Training	Software Carpentry	2015  
+Think, Pair, Share	University of Arizona	2015  
+Facilitating Active Learning	University of Arizona 	2014  
 ##Computer Languages
 Bash, R, Python
 ##Human Languages
@@ -182,29 +178,32 @@ English (ILR 5), Spanish (ILR 1+), Portuguese (ILR 1)
 SSI	2005	Open Water Diver	735526
 
 
-Professional Service
-Manuscript Reviewer
-African Journal of Biotechnology, BMC Research Notes, International Journal of Plant Physiology and Biochemistry, Plant Molecular Biology, Plant Physiology
-Society Membership
-Society for In Vitro Biology
-Plant and Animal Genome
-Student Research Training and Mentoring
-Andrea Sposato	Major: Biology, Minor: Gender and Women’s Studies	2016
-Melisa Bohlman	Major: Biology, KEYS Summer Internship	2014 
-Hanen Assad Alassady	Major: Biology		2013-14
-Jordan Skeen	B.S. Microbiology 		2010-11
-Kathryn Palmer	B.S. Spanish, Minor: Biology		2010-11
-Jasmine John 	B.S. Food Science and Technology	2009-13
-Nigel Hiles	B.S. Wildlife and Fisheries Science	2009
-Keith Gwathney	Master’s in Epidemiology		2007-09		
-Media Interviewee
-Interview for Pittosporum resiniferum project	National Public Radio	2011
-‘How Things Work: Corn’	Discovery Channel 	2008
-Departmental Committees
-Molecular Biology Assistant Professor Selection Committee 		2011
-Tennessee Plant Research Colloquium Host/Organizer 	2010-11
-Ambassador for iPlant and BIO5 Institute
-University Presidents, Members of the Mexican Consortium of Universities	2015
-Biology and Agriculture Deans, La Universidad Autónoma de Chihuahua, Mexico	2015	
-Arizona Joint Legislative Budget Committee	2015
+#Professional Service  
+##Manuscript Reviewer  
+African Journal of Biotechnology, BMC Research Notes, International Journal of Plant Physiology and Biochemistry, Plant Molecular Biology, Plant Physiology  
+##Society Membership
+Society for In Vitro Biology  
+Plant and Animal Genome  
+##Student Research Training and Mentoring
+Andrea Sposato	Major: Biology, Minor: Gender and Women’s Studies	2016  
+Melisa Bohlman	Major: Biology, KEYS Summer Internship	2014   
+Hanen Assad Alassady	Major: Biology		2013-14  
+Jordan Skeen	B.S. Microbiology 		2010-11  
+Kathryn Palmer	B.S. Spanish, Minor: Biology		2010-11  
+Jasmine John 	B.S. Food Science and Technology	2009-13  
+Nigel Hiles	B.S. Wildlife and Fisheries Science	2009  
+Keith Gwathney	Master’s in Epidemiology		2007-09  		
+##Media Interviewee
+Interview for Pittosporum resiniferum project	National Public Radio	2011  
+‘How Things Work: Corn’	Discovery Channel 	2008  
+##Departmental Committees
+Molecular Biology Assistant Professor Selection Committee 		2011  
+Tennessee Plant Research Colloquium Host/Organizer 	2010-11  
+##Ambassador for iPlant and BIO5 Institute
+University Presidents, Members of the Mexican Consortium of Universities	2015  
+Biology and Agriculture Deans, La Universidad Autónoma de Chihuahua, Mexico	2015	  
+Arizona Joint Legislative Budget Committee	2015  
 
+
+
+    
