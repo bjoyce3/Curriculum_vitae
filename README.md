@@ -1,12 +1,12 @@
 
 #Blake Joyce
-   
-`
-BIO5 Institute                                                     bjoyce3@gmail.com  
-School of Plant Sciences                                   bjoyce3@email.arizona.edu  
+bjoyce3@email.arizona.edu   
+
+BIO5 Institute                                                        
+School of Plant Sciences                                      
 University of Arizona                                                  
 1657 E. Helen Street                           
-Tucson, AZ 85721 `
+Tucson, AZ 85721   
 
 [Lab Website](http://www.lyonslab.net/who-we-are.html#blake)  
 [Departmental Website](https://cals.arizona.edu/spls/content/blake)
